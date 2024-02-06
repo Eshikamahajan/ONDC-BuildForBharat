@@ -1,0 +1,101 @@
+,ID,Restaurant Name,Country,City,Address,Locality Verbose,Average Cost for two,Cuisines,Price range,Aggregate rating,Rating text,Votes,Longitude,Latitude,Has Table booking,Has Online delivery,Is delivering now
+4924,5548,Bhikaram Bhujawala,India,New Delhi,"1995, Main Road, Near Nulife Hospital, Mukherjee Nagar, New Delhi","Mukherjee Nagar, New Delhi",100,Mithai,1,3.0,Average,5,77.2086741,28.7006026,No,No,No
+2240,2864,Sindhi Chicken,India,New Delhi,"Babu Market, Fauna Chowk, Chandni Chowk, New Delhi","Chandni Chowk, New Delhi",400,North Indian,1,2.9,Average,7,77.2316689,28.6573856,No,No,No
+8221,8845,Cafe Coffee Day,India,Noida,"Brookfield Infosapce, Sector 61, Noida","Sector 61, Noida",450,Cafe,1,0.0,Not rated,0,0.0,0.0,No,No,No
+4168,4792,Goldy Chat Bhandar,India,New Delhi,"X/3478, Street 4, Raghubarpura Main Road, Near Shani Mandir, Krishna Nagar, New Delhi","Krishna Nagar, New Delhi",100,Street Food,1,0.0,Not rated,0,77.28,28.66,No,No,No
+4922,5546,Tummyy Tull,India,New Delhi,"Main Market, Moti Nagar, New Delhi","Moti Nagar, New Delhi",200,Fast Food,1,0.0,Not rated,0,77.1424589,28.6585987,No,No,No
+5767,6391,Amuse Lounge,India,New Delhi,"1st Floor, Building 6, Central Market, Punjabi Bagh, New Delhi","Punjabi Bagh, New Delhi",800,"Fast Food, Chinese, North Indian",2,3.3,Average,49,77.13308394,28.67063315,Yes,No,No
+8013,8637,More Than Cafe,India,Noida,"Shop 12, C Block Market, Sector 41, Noida","Sector 41, Noida",400,"Cafe, Continental, Fast Food",1,3.3,Average,39,77.3618306,28.569207,No,No,No
+6720,7344,Daitchi,India,New Delhi,"E-19-A, Main Market, South Extension 2, New Delhi","South Extension 2, New Delhi",1100,"Chinese, Japanese",3,3.5,Good,273,77.2199924,28.5680075,No,No,No
+6326,6950,Nutri Lunch,India,New Delhi,"B-422, Sarita Vihar, New Delhi","Sarita Vihar, New Delhi",200,North Indian,1,0.0,Not rated,0,77.2921201,28.532939,No,No,No
+5076,5700,Radhe Shyam Dhaba,India,New Delhi,"Main Dhansa Road, Near Nanak Pyaoo, Najafgarh, New Delhi","Najafgarh, New Delhi",250,North Indian,1,0.0,Not rated,0,76.9638597,28.609072,No,No,No
+1471,2095,Shri Ram Bhojnalaya,India,Gurgaon,"Shop 6, Vohra Market, South City 2, Gurgaon","South City 2, Gurgaon",150,North Indian,1,0.0,Not rated,0,77.078993,28.4346629,No,No,No
+5441,6065,Da Pizza Corner,India,New Delhi,"Rz-36A, Raj Nagar Part 1,Palam Colony, Opposite Piller 47, Palam, New Delhi","Palam, New Delhi",600,"Fast Food, Pizza",2,3.0,Average,7,77.0875177,28.5859879,No,No,No
+8062,8686,Hot Chilli Food Plaza,India,Noida,"Gali 3, Village Chhalera, Sector 44, Noida","Sector 44, Noida",500,"North Indian, South Indian",2,0.0,Not rated,0,77.3431656,28.5585244,No,No,No
+2824,3448,Krispy Kreme,India,New Delhi,"Ground Floor, DLF Promenade Mall, Vasant Kunj, New Delhi","DLF Promenade Mall, Vasant Kunj, New Delhi",350,"Desserts, Beverages",1,3.9,Good,98,77.15590451,28.54268656,No,Yes,No
+3373,3997,Matchbox,India,New Delhi,"30, 1st Floor, Hauz Khas Village, New Delhi","Hauz Khas Village, New Delhi",1700,"American, British, Continental",3,4.0,Very Good,969,77.1941749,28.5541009,Yes,Yes,No
+6667,7291,Shalimar Food,India,New Delhi,"24, CC Block, DDA Market, Shalimar Bagh, New Delhi","Shalimar Bagh, New Delhi",100,Street Food,1,0.0,Not rated,2,77.1585449,28.7196342,No,No,No
+753,1377,Tpot,India,Gurgaon,"Rapid Metro Phase 3, DLF Phase 3, Gurgaon","DLF Phase 3, Gurgaon",400,"Fast Food, Beverages",1,3.2,Average,15,77.0935436,28.4934335,No,No,No
+5424,6048,The Gem Bar & Restaurant,India,New Delhi,"1050, Main Bazaar, Paharganj, New Delhi","Paharganj, New Delhi",1400,"Continental, North Indian, Chinese",3,3.2,Average,18,77.21615497,28.64154113,Yes,No,No
+6051,6675,Grub House,India,New Delhi,"J-2/14, BK Dutt Market, Rajouri Garden, New Delhi","Rajouri Garden, New Delhi",1700,"Italian, North Indian, Continental",3,3.5,Good,313,77.1192573,28.6472138,Yes,No,No
+5313,5937,Bruncheez,India,New Delhi,"112, Hari Nagar Ashram, New Friends Colony, New Delhi","New Friends Colony, New Delhi",150,Fast Food,1,0.0,Not rated,2,0.0,0.0,No,No,No
+6023,6647,Sandoz,India,New Delhi,"J 58, Vardhaman Plaza, DDA Complex, Opposite Surya Continental, Rajouri Garden, New Delhi","Rajouri Garden, New Delhi",550,"North Indian, Chinese",2,3.3,Average,22,77.1205029,28.6390357,No,No,No
+5186,5810,Shashi's China Wok,India,New Delhi,"EG-120, Inderpuri, Naraina, New Delhi","Naraina, New Delhi",250,Chinese,1,0.0,Not rated,2,0.0,0.0,No,No,No
+3230,3854,RAM-G Samose Wale,India,New Delhi,"C-16, Hudson Lane, GTB Nagar, New Delhi","GTB Nagar, New Delhi",100,Street Food,1,0.0,Not rated,0,77.2045178,28.6961124,No,No,No
+572,1196,Subway,India,Gurgaon,"G-6, Central Plaza Mall, Golf Course Road, Gurgaon","Central Plaza Mall, Golf Course Road, Gurgaon",500,"American, Fast Food, Salad, Healthy Food",2,2.5,Average,150,77.1009167,28.4430378,No,Yes,No
+7865,8489,Hari Om Restaurant,India,Noida,"Main Road, I Block Market, Sector 22, Noida","Sector 22, Noida",250,North Indian,1,3.0,Average,10,77.3446655,28.5990702,No,No,No
+1509,2133,Mummy's Kitchen,India,Gurgaon,"Shop 114, Queens Plaza, C Block, Sushant Lok, Gurgaon","Sushant Lok, Gurgaon",150,North Indian,1,3.5,Good,26,77.0853157,28.4543176,No,No,No
+4503,5127,Cafe Coffee Day,India,New Delhi,"22, New Market, Malviya Nagar, New Delhi","Malviya Nagar, New Delhi",450,Cafe,1,2.5,Average,52,77.2133292,28.5379729,No,No,No
+4256,4880,Wagh Bakri Tea Lounge,India,New Delhi,"C-15, Ground Floor, Lajpat Nagar 2, New Delhi","Lajpat Nagar 2, New Delhi",550,Cafe,2,3.5,Good,54,77.2392131,28.5711817,No,No,No
+1078,1702,Domino's Pizza,India,Gurgaon,"K-1 & K-13, Ground Floor, DLF Qutub Plaza, DLF Phase 1, Gurgaon","Qutab Plaza, DLF Phase 1, Gurgaon",700,"Pizza, Fast Food",2,2.8,Average,70,77.1024452,28.4719659,No,No,No
+3375,3999,Rang De Basanti Urban Dhaba,India,New Delhi,"1-A, 1st Floor, Hauz Khas Village, New Delhi","Hauz Khas Village, New Delhi",1300,North Indian,3,4.4,Very Good,541,77.195013,28.554476,Yes,Yes,No
+3697,4321,Tourist Janpath,India,New Delhi,"1, Scindia House, Janpath Road, Janpath, New Delhi","Janpath, New Delhi",2000,"North Indian, American, Chinese",4,4.1,Very Good,501,77.2196051,28.6291434,Yes,No,No
+2154,2778,Dunkin' Donuts,India,New Delhi,"Priya Complex, Basant Lok Market, Vasant Vihar, New Delhi","Basant Lok Market, Vasant Vihar, New Delhi",600,"Burger, Desserts, Fast Food",2,3.7,Good,212,77.16427334,28.55739275,No,Yes,No
+5891,6515,Ovenstory Pizza,India,New Delhi,"Sector 8 Market, R K Puram, New Delhi","R K Puram, New Delhi",500,"Pizza, Fast Food",2,0.0,Not rated,1,77.1668949,28.5726176,No,Yes,No
+6733,7357,Republic of Chicken,India,New Delhi,"451 & 452, Ground Floor, Lila Ram Market, Masjid Moth, South Extension 2, New Delhi","South Extension 2, New Delhi",400,"Raw Meats, Fast Food",1,0.0,Not rated,1,77.2384497,28.5374478,No,No,No
+6829,7453,Ovenstory Pizza,India,New Delhi,"Tagore Garden, New Delhi","Tagore Garden, New Delhi",500,"Pizza, Fast Food",2,3.5,Good,12,77.1120139,28.6463561,No,Yes,No
+7288,7912,South Indian Cafe,India,New Delhi,"591, Site 1, Vikaspuri Mod, New Delhi, Vikaspuri, New Delhi","Vikaspuri, New Delhi",350,"South Indian, Chinese",1,3.3,Average,42,77.0698477,28.6275705,No,No,No
+3245,3869,Changezi Chicken,India,New Delhi,"G-1, Vardhman Royal Plaza, LSC, Deraval Nagar Part 1, Gujranwala Town, New Delhi","Gujranwala Town, New Delhi",650,"North Indian, Mughlai",2,3.1,Average,42,77.1898079,28.7014836,No,Yes,No
+2954,3578,Chaayos,India,New Delhi,"Upper Ground Floor, Epicuria Food Mall, Nehru Place Metro Station, Nehru Place, New Delhi","Epicuria Food Mall, Nehru Place, New Delhi",400,"Cafe, Tea",1,3.6,Good,106,77.2518754,28.5511401,No,Yes,No
+2961,3585,Nando's,India,New Delhi,"Epicuria Food Mall, Nehru Place, New Delhi","Epicuria Food Mall, Nehru Place, New Delhi",1200,"Portuguese, African",3,0.0,Not rated,3,77.2511121,28.551471,No,Yes,No
+1958,2582,4 on 44 Restaurant & Bar,India,New Delhi,"112, Aggarwal City Mall, Road 44, Near M2K Multiplex, Pitampura, New Delhi","Aggarwal City Mall, Pitampura, New Delhi",1000,"North Indian, Chinese",3,2.6,Average,49,77.1346226,28.6901424,Yes,Yes,No
+744,1368,Shree Bikaner Misthan Bhandar,India,Gurgaon,"U-5/50, Road 16, DLF Phase 3, Gurgaon","DLF Phase 3, Gurgaon",100,"Street Food, Mithai",1,3.1,Average,29,77.0941281,28.4921002,No,Yes,No
+8448,9072,Bikano Chat Cafe,India,Noida,"2nd Floor, The Great India Place Mall, Sector 38, Noida","The Great India Place, Sector 38, Noida",500,"North Indian, Street Food, South Indian, Fast Food, Chinese",2,3.0,Average,38,77.325869,28.5674499,No,No,No
+5399,6023,King Bar & Restaurant,India,New Delhi,"7/7, Desh Bandhu Gupta Road, Paharganj, New Delhi","Paharganj, New Delhi",900,"North Indian, Chinese, Continental",2,3.0,Average,10,77.21226476,28.64533983,Yes,No,No
+865,1489,Takamaka,India,Gurgaon,"1st Floor, The Palm Springs Plaza, Golf Course Road, Gurgaon","Golf Course Road, Gurgaon",1700,"North Indian, Continental, Italian",3,3.9,Good,67,77.1015446,28.4451163,Yes,No,No
+3122,3746,Diva - The Italian Restaurant,India,New Delhi,"M-8A, M Block Market, Greater Kailash (GK) 2, New Delhi","Greater Kailash (GK) 2, New Delhi",2500,Italian,4,3.8,Good,372,77.2431861,28.5342023,Yes,Yes,No
+6558,7182,Cafe Red,India,New Delhi,"5-G, Dada Jungi House, Shahpur Jat, New Delhi","Shahpur Jat, New Delhi",1100,Cafe,3,3.6,Good,260,77.212447,28.5491821,Yes,Yes,No
+2394,3018,Burger King,India,New Delhi,"E-8, Inner Circle, Connaught Place, New Delhi","Connaught Place, New Delhi",500,"Burger, Fast Food",2,3.8,Good,2093,77.2212499,28.6327396,No,Yes,No
+6566,7190,Threads,India,New Delhi,"253, Ground Floor, Shahpur Jat, New Delhi","Shahpur Jat, New Delhi",700,Cafe,2,3.8,Good,59,77.2113691,28.5486312,No,Yes,No
+92,716,Mokoholic Juice Bar,India,Aurangabad,"Opposite Municipal Car Parking, Paithan Gate, Near Mondha, Aurangabad","Mondha, Aurangabad",300,"Juices, Desserts",1,3.5,Good,21,0.0,0.0,No,No,No
+1122,1746,Pind Bawarchi,India,Gurgaon,"Shop 4 & 5, Huda Market, Sector 14, Gurgaon","Sector 14, Gurgaon",600,"North Indian, Chinese",2,3.1,Average,8,77.0482744,28.4728921,No,Yes,No
+6851,7475,Pizza Hut,India,New Delhi,"Shop 26 & 27, TDI Mall, Rajouri Garden, New Delhi","TDI Mall, Rajouri Garden, New Delhi",1000,"Italian, Pizza, Fast Food",3,3.6,Good,141,77.1207398,28.6507574,No,Yes,No
+3424,4048,Kocktails & Kurries,India,New Delhi,"4, Atlantic Plaza, Local Shopping Complex, IP Extension, New Delhi","IP Extension, New Delhi",950,"North Indian, Chinese",2,3.1,Average,94,77.3089888,28.6280802,Yes,Yes,No
+4188,4812,Chez Jerome - Q Cafe,India,New Delhi,"344/3, 4th Floor, Lado Sarai, New Delhi","Lado Sarai, New Delhi",1500,"Cafe, French",3,0.0,Not rated,1,0.0,0.0,Yes,No,No
+4152,4776,Triveni,India,New Delhi,"472 B, Dayanand Marg, Jheel Khuranja, Krishna Nagar, New Delhi","Krishna Nagar, New Delhi",300,"North Indian, South Indian, Chinese, Fast Food",1,3.2,Average,31,77.2731712,28.6565918,No,No,No
+6010,6634,Crave Busters,India,New Delhi,"Rajouri Garden, New Delhi","Rajouri Garden, New Delhi",1100,"North Indian, Chinese, Continental",3,3.4,Average,224,77.1232695,28.6522668,No,Yes,No
+2096,2720,Matthi Wala,India,New Delhi,"B-1138, Main Market, Shastri Nagar, Ashok Vihar Phase 1, New Delhi","Ashok Vihar Phase 1, New Delhi",150,"Mithai, Street Food",1,0.0,Not rated,0,77.18,28.67,No,No,No
+8521,9145,Villa Shanti,India,Puducherry,"Villa Shanti, 14, Suffren Street, White Town, Puducherry","Villa Shanti, White Town, Puducherry",1500,Continental,4,3.9,Good,535,79.833191,11.929698,No,No,No
+6951,7575,South Indian Hut,India,New Delhi,"21/24, Main Road, Near Central Hospital, Tilak Nagar, New Delhi","Tilak Nagar, New Delhi",300,"South Indian, Chinese",1,2.9,Average,5,77.0889219,28.6378234,No,No,No
+2476,3100,Fa Yian,India,New Delhi,"A-25/5, Middle Circle, Connaught Place, New Delhi","Connaught Place, New Delhi",1200,Chinese,3,4.0,Very Good,412,77.2172977,28.6328105,Yes,No,No
+142,766,Tyre Patty,India,Bhubaneshwar,"3rd Floor, BMC Bhawani Mall, Sahid Nagar, Bhubaneshwar","BMC Bhawani Mall, Sahid Nagar, Bhubaneshwar",500,Cafe,2,3.9,Good,289,0.0,0.0,No,No,No
+1910,2534,Ten Downing Street Restaurant & Bar,India,Nagpur,"5th Floor, Milestone Building, Wardha Road, Ramdaspeth, Nagpur","Ramdaspeth, Nagpur",1000,"Chinese, Continental, North Indian",3,4.0,Very Good,306,79.07851763,21.13672376,No,No,No
+1136,1760,Konetto Pizza,India,Gurgaon,"Shop 7, Opposite Vishal Mega Mart, Next to Citikart, Old Delhi-Gurgaon Road, Sector 14, Gurgaon","Sector 14, Gurgaon",150,Pizza,1,3.5,Good,32,77.0462096,28.4783985,No,No,No
+4333,4957,Henri's Bar - Le Meridien,India,New Delhi,"Le Meridien, Windsor Place, Janpath, New Delhi","Le Meridien, Janpath, New Delhi",2000,Finger Food,4,3.3,Average,20,77.2185552,28.6187736,No,No,No
+5680,6304,Tilak Munjal-R Panchkuian Samose Wale,India,New Delhi,"JD 21, Ashiana Chowk, Pitampura, New Delhi","Pitampura, New Delhi",100,Street Food,1,3.5,Good,98,77.1358879,28.7008747,No,Yes,No
+702,1326,Chefoncalls,India,Gurgaon,"N4/19,  N-Block, DLF Phase 2, Gurgaon","DLF Phase 2, Gurgaon",300,North Indian,1,0.0,Not rated,0,0.0,0.0,No,No,No
+2376,3000,Attitude Kitchen & Bar,India,New Delhi,"N-12, Outer Circle, Connaught Place, New Delhi","Connaught Place, New Delhi",1300,"North Indian, Continental, Italian",3,2.9,Average,140,77.22035229,28.63004355,Yes,No,No
+822,1446,The Food Store - DoubleTree by Hilton,India,Gurgaon,"DoubleTree by Hilton, Golf Course Road, Sector 56, Gurgaon","DoubleTree by Hilton, Sector 56, Gurgaon",3000,"European, Italian",4,3.6,Good,58,77.104693,28.4221468,Yes,No,No
+6762,7386,Sethi's The Cake Shop,India,New Delhi,"14/2, Ashok Nagar, Subhash Nagar, New Delhi","Subhash Nagar, New Delhi",150,"Bakery, Fast Food",1,2.8,Average,16,77.1049848,28.6372567,No,No,No
+2756,3380,Shahi Zaikaa,India,New Delhi,"F-1/F-1, Mrignayani Chowk, Dilshad Colony, Dilshad Garden, New Delhi","Dilshad Garden, New Delhi",800,"North Indian, Mughlai",2,3.0,Average,6,77.3263201,28.6839708,No,No,No
+497,1121,The Big Scoop,India,Ghaziabad,"C 17, 1st Floor, Patparganj Industrial Area, Kaushambi, Ghaziabad","Kaushambi, Ghaziabad",250,Ice Cream,1,0.0,Not rated,0,77.31069862,28.6411332,No,No,No
+2181,2805,Chimney,India,New Delhi,"26, Yashwant Place Market, Food Plaza, Chanakyapuri, New Delhi","Chanakyapuri, New Delhi",800,Chinese,2,2.9,Average,66,77.1916048,28.5843895,Yes,No,No
+2167,2791,Punjabi Tadka,India,New Delhi,"6, UG-64, Ansal Chamber 2, Bhikaji Cama Place, New Delhi","Bhikaji Cama Place, New Delhi",250,North Indian,1,2.8,Average,11,77.1883704,28.5680386,No,No,No
+4607,5231,Aashirwad,India,New Delhi,"A 1, Acharya Niketan, Mayur Vihar Phase 1, New Delhi","Mayur Vihar Phase 1, New Delhi",450,"Chinese, North Indian",1,3.2,Average,19,77.2924811,28.6089584,No,No,No
+2382,3006,Gola Sizzlers,India,New Delhi,"K-24, Opposite PVR Plaza Cinema, Connaught Place, New Delhi","Connaught Place, New Delhi",1600,"Chinese, North Indian, Mughlai, Continental",3,3.0,Average,671,77.2198577,28.6352499,No,Yes,No
+6298,6922,Nueva,India,New Delhi,"Ground Floor, Sangam Courtyard, R K Puram, New Delhi","Sangam Courtyard, RK Puram, New Delhi",2500,South American,4,3.3,Average,14,77.1720619,28.571902,Yes,No,No
+3663,4287,Gulnar - Hotel Janpath,India,New Delhi,"Hotel Janpath, Janpath Road, Janpath, New Delhi","Janpath, New Delhi",2000,"North Indian, Chinese",4,3.2,Average,40,77.21879444,28.62175556,Yes,No,No
+227,851,BMG - All Day Dining,India,Dehradun,"140 A, Rajpur Road, Jakhan, Dehradun","Jakhan, Dehradun",0,"Chinese, North Indian, Fast Food",1,4.3,Very Good,63,78.06888981,30.36268594,No,No,No
+637,1261,Chaayos,India,Gurgaon,"Ground Floor, Tower B Atrium, Building 5, Near Indian Oil Petrol Pump, DLF Cyber City, Gurgaon","DLF Cyber City, Gurgaon",400,"Cafe, Tea",1,3.8,Good,393,77.0921049,28.4897992,No,Yes,No
+3021,3645,Hunger Strike,India,New Delhi,"M-69, Opposite Yes Bank, M Block Market, Greater Kailash (GK) 1, New Delhi","Greater Kailash (GK) 1, New Delhi",300,Fast Food,1,3.3,Average,70,77.2341837,28.5510721,No,Yes,No
+5790,6414,Pudding & Pie,India,New Delhi,"Row 42, Plot 57,  West Punjabi Bagh, Punjabi Bagh, New Delhi","Punjabi Bagh, New Delhi",450,"Bakery, Fast Food",1,3.0,Average,27,77.13446863,28.66992391,No,No,No
+7587,8211,Foodicious,India,Noida,"B 33/ K 1C, Sector 1, Noida","Sector 1, Noida",300,"Fast Food, Street Food",1,0.0,Not rated,0,77.3129503,28.5872879,No,No,No
+1093,1717,Maa Bhagwati Tiffins,India,Gurgaon,"Subhash Nagar, Sector 12, Gurgaon","Sector 12, Gurgaon",200,North Indian,1,3.0,Average,4,77.0324732,28.4636195,No,No,No
+3166,3790,Let's Tango,India,New Delhi,"Shop C-107, Ground Floor, Green Park, New Delhi","Green Park, New Delhi",400,"North Indian, Fast Food",1,3.0,Average,5,0.0,0.0,No,No,No
+509,1133,Let's Noodle,India,Ghaziabad,"18, 2nd Floor, Shipra Mall, Gulmohar Road, Indirapuram, Ghaziabad","Shipra Mall, Indirapuram, Ghaziabad",700,Chinese,2,2.6,Average,181,77.36971814,28.63421758,No,Yes,No
+530,1154,The Fisherman's Wharf,India,Goa,"Before The Leela, Mobor, Cavelossim, Goa","Cavelossim, Goa",1100,"Continental, Goan, Seafood, North Indian",4,4.6,Excellent,555,73.95088889,15.15794444,No,No,No
+7365,7989,GoGourmet,India,New Delhi,"Cart 7, Level 2, Food Capital, Worldmark 1, Aerocity, New Delhi","Worldmark 1, Aerocity, New Delhi",600,"Healthy Food, Beverages",2,0.0,Not rated,3,77.120547,28.548297,No,Yes,No
+7509,8133,Serendipity Cafe,India,Noida,"Ground Floor, Ansal Plaza Mall, Knowledge Park I, Pari Chowk, Greater Noida, Noida","Greater Noida, Noida",300,Cafe,1,0.0,Not rated,3,77.5079254,28.4642665,No,No,No
+1531,2155,Shri Shyam Ji Ke Mashhoor Chhole Bhature,India,Gurgaon,"C Block, Near Fauji Market, Sushant Lok, Gurgaon","Sushant Shopping Arcade, Sushant Lok, Gurgaon, Gurgaon",200,Street Food,1,3.3,Average,26,77.0811311,28.4532726,No,No,No
+214,838,On The Go,India,Coimbatore,"167, Race Course Road, Gopalapuram, Race Course, Coimbatore","Race Course, Coimbatore",1500,"Italian, North Indian, Desserts",4,4.0,Very Good,215,76.975525,11.00368056,No,No,No
+2775,3399,Friends N Foods,India,New Delhi,"Pocket SG/5A, LIG DDA Flates, Near Deer Park, Dilshad Garden, New Delhi","Dilshad Garden, New Delhi",300,Chinese,1,0.0,Not rated,0,77.32285928,28.68393079,No,No,No
+8328,8952,Bikaner's,India,Noida,"Shop 3 & 4, Amrapali Princely Estate , Sector 76, Near Sector 72, Noida","Sector 72, Noida",400,"Mithai, North Indian, Chinese",1,2.9,Average,4,77.3823794,28.5645097,No,No,No
+6315,6939,Wake And Bake,India,New Delhi,"Sarita Vihar, New Delhi","Sarita Vihar, New Delhi",500,"Bakery, Desserts",2,3.2,Average,16,77.297525,28.5318684,No,No,No
+351,975,Maa Kali Foods,India,Faridabad,"SCO 35, HUDA Market, Sector 16, Faridabad","Sector 16, Faridabad",250,Chinese,1,0.0,Not rated,0,77.3196991,28.4104999,No,No,No
+323,947,Cakes At Bhawanas,India,Faridabad,"418, 1st Floor, Sector 15, Faridabad","Sector 15, Faridabad",400,Bakery,1,3.5,Good,26,77.317231,28.393261,No,No,No
+8210,8834,Shivam Fast Food,India,Noida,"Shop 1, C Block, Near HCL Call Center, Sector 59, Noida","Sector 59, Noida",350,"North Indian, South Indian, Chinese",1,2.9,Average,12,77.3626134,28.6088444,No,No,No
+4770,5394,Twenty Four Seven,India,New Delhi,"M/S Qutab Service Station, IOC Pump, Opposite STC & MMTC Housing Colony, Mehrauli, New Delhi","Mehrauli, New Delhi",300,"Fast Food, North Indian",1,0.0,Not rated,0,77.1898485,28.5239134,No,No,No
+923,1547,L'Angoor,India,Gurgaon,"Lobby Level, Tower C, Global Business Park, MG Road, Gurgaon","MG Road, Gurgaon",2500,"American, Seafood, Italian, Japanese, Thai",4,3.5,Good,57,77.1020768,28.4806041,Yes,No,No
+1378,2002,Chinese Hot Express,India,Gurgaon,"Car Parking, Sector 56, Gurgaon","Sector 56, Gurgaon",200,Chinese,1,0.0,Not rated,0,77.099568,28.4254221,No,No,No
+91,715,d' Curry House,India,Aurangabad,"Hotel Green Olive, Near Baba Petrol Pump, Nirala Bazar, Aurangabad","Hotel Green Olive, Nirala Bazar, Aurangabad",1000,"Continental, Chinese, Biryani, North Indian",3,3.6,Good,73,75.316722,19.875337,No,No,No
+180,804,Uncle Jack's,India,Chandigarh,"Booth 11, Sector 8, Chandigarh","Sector 8, Chandigarh",600,"Desserts, American",2,4.0,Very Good,356,76.7972148,30.7408896,No,No,No

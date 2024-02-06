@@ -1,0 +1,26 @@
+DeliveryAgencyID,AgencyName,Source,Destination,City,AverageDeliveryTime,DeliveryRating,DeliveryCharges,OrderID
+1,Zomato,Point A,Rajouri Garden, New Delhi,26.534591,4.017150,132.947285,1
+2,Zomato,Point A,Karol Bagh, New Delhi,27.656682,4.073667,131.307404,2
+3,Swiggy,Point A,Paharganj, New Delhi,28.778774,4.111086,129.719192,3
+4,Dunzo,Point A,Lajpat Nagar, New Delhi,29.900865,4.169084,128.862717,4
+5,Postmates,Point A,Paharganj, New Delhi,31.022957,4.159132,130.072303,5
+6,Dunzo,Point A,Connaught Place, New Delhi,32.145048,4.305178,126.858263,6
+7,Swiggy,Point A,Paharganj, New Delhi,33.267140,4.395490,126.687241,7
+8,Foodpanda,Point A,Rajouri Garden, New Delhi,34.389231,4.533059,124.500169,8
+9,Zomato,Point A,Karol Bagh, New Delhi,35.511323,4.631077,122.611080,9
+10,Postmates,Point A,Lajpat Nagar, New Delhi,36.633415,4.707401,121.387936,10
+11,Delhivery Express,Point A,Rajouri Garden, New Delhi,37.755506,4.778208,120.369191,11
+12,Postmates,Point A,Paharganj, New Delhi,38.877598,4.840839,119.332864,12
+13,DoorDash,Point A,Paharganj, New Delhi,40.000000,4.930808,118.180215,13
+14,Foodpanda,Point A,Lajpat Nagar, New Delhi,41.122091,5.031408,117.232779,14
+15,Swiggy,Point A,Lajpat Nagar, New Delhi,42.244183,4.989813,118.196005,15
+16,Delhivery Express,Point A,Connaught Place, New Delhi,43.366274,5.050613,117.342443,16
+17,Dunzo,Point A,Paharganj, New Delhi,44.488366,5.146262,115.558295,17
+18,DoorDash,Point A,Karol Bagh, New Delhi,45.610458,5.144450,115.928213,18
+19,DoorDash,Point A,Paharganj, New Delhi,46.732549,5.187239,115.221349,19
+20,Swiggy,Point A,Connaught Place, New Delhi,47.854641,5.298663,113.794127,20
+21,Dunzo,Point A,Paharganj, New Delhi,48.976732,5.331765,113.419240,21
+22,Foodpanda,Point A,Lajpat Nagar, New Delhi,50.098824,5.373780,112.675568,22
+23,Delhivery Express,Point A,Paharganj, New Delhi,51.220916,5.406130,112.287120,23
+24,Zomato,Point A,Lajpat Nagar, New Delhi,52.343007,5.442317,111.937001,24
+25,Postmates,Point A,Connaught Place, New Delhi,53.465099,5.477665,111.565269,25
